@@ -1,4 +1,4 @@
-### Hey there, I'm YueMa! 👋
+### Hey there, I'm MaYue(马跃)! 👋
 
 [![](https://img.shields.io/badge/Homepage-blue??&style=flat-square&logo=google-chrome&logoColor=white)](https://mayuelala.github.io/)
 
