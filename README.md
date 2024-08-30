@@ -17,7 +17,7 @@ Welcome to my GitHub. Currently, I am  a 1st-year Phd student at HKUST. My resea
 <table width="100%">
   <tr>
     <td>🏠 <b>Homepage</b>: <a href="https://mayuelala.github.io" target="_blank">mayuelalatianxingchen.github.io</a></td>
-    <td>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ" target="_blank">Yue Ma (马跃)</a></td>
+    <td>Google Scholar: <a href="https://scholar.google.com/citations?user=kwBR1ygAAAAJ&hl=zh-CN" target="_blank">Yue Ma (马跃)</a></td>
     <td>Email: <a href="mailto:mayuefighting@gmail.com" target="_blank">mayuefighting@gmail.com</a></td>
   </tr>
 	
