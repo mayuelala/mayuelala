@@ -33,6 +33,8 @@ Welcome to my GitHub. Currently, I am  a 1st-year Phd student at HKUST. My resea
 [Follow-Your-Click](https://github.com/mayuelala/FollowYourClick) 💻💻: Regional image animation <img src="https://img.shields.io/github/stars/mayuelala/FollowYourClick?style=social" />
 
 [Follow-Your-Emoji](https://github.com/FollowYourEmoji) 🤪🤪: Freestyle portrait animation <img src="https://img.shields.io/github/stars/mayuelala/FollowYourEmoji?style=social" />
+
+[Follow-Your-Canvas](https://github.com/FollowYourCanvas) 🖼🖼: Higher-Resolution Video Outpainting <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
  
 ### 🚀 Total Visitors:
 
