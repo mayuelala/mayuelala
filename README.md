@@ -6,7 +6,7 @@
 </a><br>
 <a href="mayuelala.github.io.github.io" target="_blank"><img src="https://mayuelala.github.io/indexpics/sign.png" height="70px" style="margin-bottom:-1px"></a>
 </h1>
-Welcome to my GitHub. Currently, I am  a 1st-year Phd student at HKUST. My research lies at the intersection of “computer vision” and “machine learning” – with a special focus on "video generation", "video editing". If you have any questions about my projects, please feel free to send me an email(mayuefighting@gmail.com). Check my homepage( https://mayuelala.github.io/) to learn more about me.<br>
+Welcome to my GitHub. Currently, I am  a 1st-year Phd student at HKUST. My research lies at the intersection of “computer vision” and “machine learning” – with a special focus on "video generation", "video editing". If you have any questions about my projects, please feel free to send me an email(mayuefighting@gmail.com). Check my homepage(https://mayuelala.github.io/) to learn more about me.<br>
 <br>
 
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
