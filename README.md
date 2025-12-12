@@ -35,9 +35,8 @@ Welcome to my GitHub. Currently, I am  a 1st-year Phd student at HKUST. My resea
 
 6. [Follow-Your-Canvas](https://github.com/mayuelala/FollowYourCanvas) 🖼🖼: Higher-Resolution Video Outpainting <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
 
-7. [Follow-Your-Creation](https://github.com/mayuelala/FollowYourCreation) 📷📷: 4D Video Creation <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
-
-8. [Follow-Your-Motion](https://github.com/mayuelala/FollowYourMotion) 🚗🚗: Training-based video motion transfer using DiT <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
+7. [Follow-Your-Creation](https://github.com/mayuelala/FollowYourCreation) 📷📷: 4D Video Creation 
+8. [Follow-Your-Motion](https://github.com/mayuelala/FollowYourMotion) 🚗🚗: Training-based video motion transfer using DiT 
 
 9. [Follow-Your-Shape](https://github.com/mayuelala/FollowYourShape) ✂️✂️: Shape-aware image editing <img src="https://img.shields.io/github/stars/mayuelala/FollowYourShape?style=social" />
 
