@@ -40,7 +40,7 @@ Welcome to my GitHub. Currently, I am  a 1st-year Phd student at HKUST. My resea
 
 9. [Follow-Your-Shape](https://github.com/mayuelala/FollowYourShape) ✂️✂️: Shape-aware image editing <img src="https://img.shields.io/github/stars/mayuelala/FollowYourShape?style=social" />
 
-10. [Follow-Your-Instruction](https://github.com/mayuelala/FollowYourInstruction) 🤖🤖: A MLLM Agent for World Data Synthesis <img src="https://img.shields.io/github/stars/mayuelala/FollowYourCanvas?style=social" />
+10. [Follow-Your-Instruction](https://github.com/mayuelala/FollowYourInstruction) 🤖🤖: A MLLM Agent for World Data Synthesis 
  
 
 
